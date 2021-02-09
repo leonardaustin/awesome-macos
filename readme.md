@@ -703,7 +703,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
 - [Bunch](https://brettterpstra.com/projects/bunch/) - A Batch Application Launcher for your Dock.
-- [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
+- [Caffeine](https://intelliscapesolutions.com/apps/caffeine) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
 - [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
 - [CommandQ](https://commandqapp.com/) - Never accidentally quit an app or window again. ![Dollar][mon]  
